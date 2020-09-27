@@ -1,0 +1,13 @@
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
