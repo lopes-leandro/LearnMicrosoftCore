@@ -1,0 +1,9 @@
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csprojAssemblyReference.cache
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfoInputs.cache
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfo.cs
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
+/home/leandro/Repository/Microsoft/LearnMicrosoftCore/ch02/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb
