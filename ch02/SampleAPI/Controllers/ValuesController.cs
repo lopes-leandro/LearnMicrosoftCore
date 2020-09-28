@@ -6,10 +6,18 @@ namespace SampleAPI.Controllers
 
   [ApiController]
   [Route("[controller]")]
-    public class ValuesController: ControllerBase
+  public class ValuesController : ControllerBase
+  {
+    private IPaymentService paymentService { get; set; }
+
+    public ValuesController(IPaymentService paymentService)
     {
-        public string Get() {
-          return "Olá Mundo!!!";
-        }
+      this.paymentService = paymentService;
     }
+
+    public string Get()
+    {
+      return paymentService.GetMessage();
+    }
+  }
 }
