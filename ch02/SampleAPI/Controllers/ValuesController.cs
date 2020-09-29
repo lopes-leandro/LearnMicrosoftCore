@@ -8,14 +8,13 @@ namespace SampleAPI.Controllers
   [Route("[controller]")]
   public class ValuesController : ControllerBase
   {
-    private IPaymentService paymentService { get; set; }
+    [HttpPost]
+    public IActionResult Post() => Ok();
 
-    public ValuesController(IPaymentService paymentService)
-    {
-      this.paymentService = paymentService;
-    }
+    public ValuesController(){ }
 
-    public string Get()
+    [HttpGet]
+    public ActionResult<string> Get([FromServices] IPaymentService paymentService)
     {
       return paymentService.GetMessage();
     }
